@@ -1,3 +1,4 @@
+//Iplemento clased parque explora
 package com.example;
 
 public class ParqueExplora implements EspacioCultural {
